@@ -42,15 +42,16 @@ The are some steps before writing this document that are important to guarantee 
     -	After we start getting a pretty good idea of what kind of game is it going to be we can start to decide **how all the different aspects of the game should or shouldn’t sound**. We can begin to get more meticulous about different qualities and how we would like them to sound. Although I said it is more meticulous, we are not currently deciding how things should exactly be, the audio vision helps to fit our idea of the audio in the “big picture” of the game. 
 -	*Establish reference material:*
     -	Once we have in mind the audio vision of the game, it is good to gather information about projects with similar approaches to ours. It can help us get more inspired and possibly define better how we want things to be. Examples of references could be clips of sound-design, music, voice-over audios…
-    -	When we have gathered up enough material, a good practice to get inspired, or on the other hand test our own elements is to take a piece/sound/voice-over of a scenario from our reference material and try it in one of our game. It can also be done the other way around, we take a piece of ours and try it on a scenario from another game similar to ours. This can give us information about our audio vision. It tells us if the direction we are focusing things is the right one.
+    -	When we have gathered up enough material, a good practice to get **inspired**, or on the other hand test our own elements is to take a piece/sound/voice-over of a scenario from our reference material and try it in one of our game. It can also be done the other way around, we take a piece of ours and try it on a scenario from another game similar to ours. This can give us information about our audio vision situation. It tells us if the direction we are focusing things is the right one.
 
 ### AUDIO BIBLE PARTS
 
 Finally we have all the knowledge needed to start writing the final document that will be used throughout all the development. Now I will go deeply in every aspect that needs to be included in order to have a solid document:
-
+- **Basic Information of the Game**
+    - First of all and before getting into specifics, it is good to write down the basic information about the video game we are working on. Examples could be the genre of the game, its target audience, the game and some of the games used for reference. Along with that information, a link to the GDD (Game Design Document) is needed so that team members can take deeper look of the overall project at any time.
 -	**Audio Pillars**
     -	These are basically the same as the Game Pillars of the project, but actually focused on the audio.
-    -	In three to five concepts they define the overall aesthetic of the different kind of sounds of the game.
+    -	In three to five concepts they define the **overall aesthetic** of the different kind of sounds of the game.
     -	Audio Pillars are the most basic but important factors of the entire sound so every other aspect needs to take these into account.
 -	**Music**
     -	*Style*: Is the most fundamental part of the music and it needs to match the overall feeling of the moment it is going to be used.
