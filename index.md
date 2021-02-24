@@ -12,7 +12,9 @@ Sound in videogames is one of the most important aspects of it due to the fact t
  - Mirror or exaggerate how things sound in real life:
    - Although we may not think about the sounds we hear every day, we recognize them readily and have preconceptions about how things should sound. That's why we can get really quickly out of the immersion if we notice a sound that is just "off". [Example](https://www.youtube.com/watch?v=3JY4WHPVIiQ&ab_channel=MashableWatercooler)
 
-## KINDS OF SOUNDS IN GAMES
+## KINDS OF SOUNDS IN VIDEO GAMES
+
+All the different sounds that appear in videogames are distributed in families, that I will now explain. Normally, all video games should include every single one of the families below. The only case in which one of these could be removed is when that is the idea of the game, it is done in purpose.
 
  - DX = Dialogue - any verbal speech in the game. This includes both the dialogues from main characters to the ones between NPC’s in the background.
  - MX = Music - all the different soundtracks that accompanies the videogame. We can distinguish between two kind of music: **diegetic** and **non-diegetic**. The difference between these two is that the non-diegetic music is that kind of music that the characters inside the game are not able to hear. We are the only ones that can.
@@ -20,7 +22,7 @@ Sound in videogames is one of the most important aspects of it due to the fact t
    - The most common technique used to create sounds is known as the **Foley Technique**. It is named after Jacl Foley and it consists in the reproduction of everyday sounds that are later on added in the post-production phase of videogames, films and others. [Example](https://www.youtube.com/watch?app=desktop&v=_MOFMa-Lt78&ab_channel=FoleyArt)
  - BG = Backgrounds - ambience sounds are all the background sounds which are present in a scene or location. Common ambient sounds include wind, water, birds, crowds, office noises, traffic...
 
-
+## AUDIO BIBLE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
