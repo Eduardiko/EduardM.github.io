@@ -3,8 +3,8 @@
 ## THE IMPORTANCE OF SOUND IN VIDEOGAMES
 
 Sound in videogames is one of the most important aspects of it due to the fact that it can hardly impact on the immersion of the players and very quickly. This is due to the amount of information that they convey:
- - Lavaina
-    - lavaina
+ - Suggest a mood, evoke a feeling:
+    - Sound has always been used to represent many kind of emotions and this is the most common use.
  - 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
