@@ -48,28 +48,28 @@ The are some steps before writing this document that are important to guarantee 
 
 Finally we have all the knowledge needed to start writing the final document that will be used throughout all the development. Now I will go deeply in every aspect that needs to be included in order to have a solid document:
 
-####	Audio Pillars
+-	**Audio Pillars**
     -	These are basically the same as the Game Pillars of the project, but actually focused on the audio.
     -	In three to five concepts they define the overall aesthetic of the different kind of sounds of the game.
     -	Audio Pillars are the most basic but important factors of the entire sound so every other aspect needs to take these into account.
--	Music
+-	**Music**
     -	Style: Is the most fundamental part of the music and it needs to match the overall feeling of the moment it is going to be used.
 At this moment we don’t know exactly what kind of pieces we are going to make but we have an idea of what different styles will the game have.
     -	Instrumentation: A list of all the instruments that are going to be used to compose the music. They are going to be all real instruments? Will there be digital ones? Are we going to use both kinds at some point?
     -	Recording/Engineering Philosophy: here we have to write the methodology we are going to use to record all the audio of the instruments. Is it going to be all recorded at the same time in one track or are the different instruments going to be recorded separately into multiples tracks and later put together?
     -	Dynamic Range: this will set a range of how loud or quite can music get depending on the situation, establishing maximums and minimums. Also pieces are always going to sound at the same intensity or will it vary?
--	Sound Design
+-	**Sound Design**
     -	Ambience: a description of the different scenarios will help to understand what kind of ambience sound works better. This is a very important kind of sound, without ambience the game feels “empty”.
     -	Sound Palette: this is a list of all the possible sound effects that may be wanted during the development process. Here we need to think in every possible object or action that may cause a sound and list it. Main examples could be weapon sounds, item pickups, the player’s feedback, monsters, visual effects…
     -	Dynamic Range: just as before, sound effects also need to establish its dynamic range.
--	Voice-Over
+-	**Voice-Over**
     -	Characters: this is a list of all the characters that will need voice-over in the game. Here are separated the main characters, that are the ones that will need a personalized voice over, and the other ones like crowds or background characters. For the main characters, we will need to include their looks, personality, age, gender and profile.
     -	Orientation: it defines in a generic way the overall attitude of the characters voice-overs. For example are they going to have a more serious attitude or will they be more comedic or cartoonish. Is it going to be more focused on narrative or dialogues?
     -	Voice Types Required: taking into account the characters and the general orientation of the voice-over, what kind of voices are there going to be needed? A good way to know all required voice types is to grab the characters list previously done and match types of voices to them. An example could be a “Deep Voice” or a “High Pitch” one.
     -	Cast Size: once we know all the voice-types and to what character they correspond, it is time to decide the number of professional voice-overs needed. For that we will first need to write a list with the age range, the gender, the accent and any other relevant aspect that will be needed to be taken into account before starting to hire them.
     -	Special Effect Voices: this is a list of all the voices that will need some kind of effect on top of the normal ones. Some examples of that are when we need to have a robotic voice or one for a monster.
     -	Script: a document with the entire script and all the quotes that the actors will need to record.
--	Technology
+-	**Technology**
     -	At this point we will have to take into account what kind of technology requirements will the game need. A part from that, we will also need to determine how we are going to get the audio into the game.
     -	Technology: 
          -	Number of platforms that need to be supported.
