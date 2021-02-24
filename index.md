@@ -24,6 +24,16 @@ All the different sounds that appear in videogames are distributed in families, 
 
 ## AUDIO BIBLE
 
+Now that we have some clear understanding of the importance of sound in videogames and the different kinds of it we can start to think about developing the Audio Bible of our game. The Audio Bible is also commonly referred as the Audio Design Document. 
+It is an extremely important document due to the fact that it gathers all the audio-related information of the game. Later on I will go deeply into the different parts that need to be taken into account when designing this document, and show a template as an example.
+The Audio Bible is used throughout all the development process as a reference to the current team members and with possibly future ones. It helps the members to know how the sound is meant to be and the different rules and pillars that need to be followed during the development.
+
+This document is always important but it is extremely useful when:
+-	Multiple sound professionals are working (or could eventually work) on the same project.
+-	You are working on multiple projects (so you can refer back to the document to refresh your memory and put yourself in the project’s mindset).
+-	You’re working on a large project (it’s easy to drift off from the original project focus when you work on the same thing for a long time).
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
