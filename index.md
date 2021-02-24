@@ -77,20 +77,10 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
          -	The data budget for the project. How much will all the audio weight? Is there a maximum or it can be unlimited?
 
 ### WEBGRAPHY
-Importance of Game Audio:
-https://frost.ics.uci.edu/ics62/BasicsofSoundDesignforVideoGames-MichaelCullen.pdf
+[Basics of Sound Design for Video Games] (https://frost.ics.uci.edu/ics62/BasicsofSoundDesignforVideoGames-MichaelCullen.pdf)
 
-Sound Design Document Template:
-http://thiagoschiefer.com/home/documentation-and-organization-in-game-audio-with-templates/	[source]
-https://docs.google.com/document/d/1SKvYinEHKNT9QDB7jVPpT3cXsAGzA0g-KlE5ujggtR4/edit	[template]
-
-Audio Design Document Examples:
-https://issuu.com/rocket_powered_hippo/docs/sounddesignfinal
-https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/
-
-Audio Design Document Info:
-http://zacharyquarles.com/blog/?p=518
-https://www.asoundeffect.com/game-audio-design-document/
+[Writing an Audio Design Document] (http://zacharyquarles.com/blog/?p=518)
+[GAME AUDIO GUIDE: HOW TO WRITE A (GAME-CHANGING) AUDIO DESIGN DOCUMENT TODAY:](https://www.asoundeffect.com/game-audio-design-document/)
 
 Foley:
 https://www.youtube.com/watch?v=_MOFMa-Lt78&ab_channel=FoleyArt
