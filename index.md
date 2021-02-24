@@ -48,7 +48,7 @@ The are some steps before writing this document that are important to guarantee 
 
 Finally we have all the knowledge needed to start writing the final document that will be used throughout all the development. Now I will go deeply in every aspect that needs to be included in order to have a solid document:
 - **Basic Information of the Game**
-    - First of all and before getting into specifics, it is good to write down the basic information about the video game we are working on. Examples could be the genre of the game, its target audience, the game and some of the games used for reference. Along with that information, a link to the GDD (Game Design Document) is needed so that team members can take deeper look of the overall project at any time.
+    - First of all and before getting into specifics, it is good to write down the basic information about the video game we are working on. Examples could be the genre of the game, its target audience, the game and some of the games used for reference. Along with that information, a link to the **GDD (Game Design Document)** is needed so that team members can take deeper look of the overall project at any time.
 -	**Audio Pillars**
     -	These are basically the same as the Game Pillars of the project, but actually focused on the audio.
     -	In three to five concepts they define the **overall aesthetic** of the different kind of sounds of the game.
