@@ -48,7 +48,7 @@ The are some steps before writing this document that are important to guarantee 
 
 Finally we have all the knowledge needed to start writing the final document that will be used throughout all the development. Now I will go deeply in every aspect that needs to be included in order to have a solid document:
 
--	Audio Pillars
+####	Audio Pillars
     -	These are basically the same as the Game Pillars of the project, but actually focused on the audio.
     -	In three to five concepts they define the overall aesthetic of the different kind of sounds of the game.
     -	Audio Pillars are the most basic but important factors of the entire sound so every other aspect needs to take these into account.
