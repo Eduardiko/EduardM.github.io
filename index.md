@@ -7,6 +7,10 @@ Sound in videogames is one of the most important aspects of it due to the fact t
    - Sound has always been used to represent many kind of emotions and this is the most common use.
      - [Example](https://www.youtube.com/watch?v=ygA8AZXR7IA&ab_channel=Play4Games)
 
+ - Indicate a geographical locale and the environment:
+   - In videogames, a good sound design allows the player to know its location even though they are not seeing the game. 
+     - [Example](https://www.youtube.com/watch?v=ygA8AZXR7IA&ab_channel=Play4Games)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
