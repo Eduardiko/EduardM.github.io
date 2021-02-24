@@ -80,6 +80,7 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
 [Basics of Sound Design for Video Games](https://frost.ics.uci.edu/ics62/BasicsofSoundDesignforVideoGames-MichaelCullen.pdf)
 
 [Writing an Audio Design Document](http://zacharyquarles.com/blog/?p=518)
+
 [GAME AUDIO GUIDE: HOW TO WRITE A (GAME-CHANGING) AUDIO DESIGN DOCUMENT TODAY:](https://www.asoundeffect.com/game-audio-design-document/)
 
 [Foley Recording For Video Game Sumoman](https://www.youtube.com/watch?v=_MOFMa-Lt78&ab_channel=FoleyArt)
