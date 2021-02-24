@@ -72,9 +72,9 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
 -	Technology
     -	At this point we will have to take into account what kind of technology requirements will the game need. A part from that, we will also need to determine how we are going to get the audio into the game.
     -	Technology: 
-      -	Number of platforms that need to be supported.
-      -	The file formats like .ogg or .wav
-      -	The data budget for the project. How much will all the audio weight? Is there a maximum or it can be unlimited?
+         -	Number of platforms that need to be supported.
+         -	The file formats like .ogg or .wav
+         -	The data budget for the project. How much will all the audio weight? Is there a maximum or it can be unlimited?
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
