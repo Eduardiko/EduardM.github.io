@@ -9,6 +9,13 @@ Sound in videogames is one of the most important aspects of it due to the fact t
  - Indicate a geographical locale and the environment:
    - In videogames, a good sound design allows the player to know its location even though they are not seeing the game. [Example](https://www.youtube.com/watch?v=s0ZFtb9RH-Q&t=2139s&ab_channel=SmallAnt)
 
+ -	Mirror or exaggerate how things sound in real life.
+	  - Although we may not think about the sounds we hear every day, we recognize them readily and have preconceptions about how things should sound.
+
+## KINDS OF SOUNDS IN GAMES
+
+ - DX = Dialogue - any verbal speech in the game. This includes both the dialogues from main characters to the ones between NPC’s in the background.
+ - MX = Music - all the different soundtracks that accompanies the videogame. We can distinguish between two kind of music.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
