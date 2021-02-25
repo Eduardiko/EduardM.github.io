@@ -95,6 +95,7 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
          - VO (Voiceover): vo_character_line_var0
          - AMB (Ambiences): amb_place_category_loop_var0
 
+![document gif](https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif)
 
 [AUDIO BIBLE TEMPLATE](https://docs.google.com/document/d/18B48Eq502vz9A85DrZhsAS2ThNOagulbJ8tGXtxMLrU/edit)
 
