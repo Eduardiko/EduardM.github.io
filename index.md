@@ -93,6 +93,14 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
          -	Number of platforms that need to be supported.
          -	The file formats like .ogg or .wav
          -	The data budget for the project. How much will all the audio weight? Is there a maximum or it can be unlimited?
+- **Naming Conventions**
+    - Set of rules that define how files are going to be named.
+         - Example:
+         - MUS (Music): mus_gamename_screen_layer_loop
+         - SFX (Sound effects): sfx_category_subcategory_subsubcategory_var0
+         - VO (Voiceover): vo_character_line_var0
+         - AMB (Ambiences): amb_place_category_loop_var0
+
 
 [AUDIO BIBLE TEMPLATE](https://docs.google.com/document/d/18B48Eq502vz9A85DrZhsAS2ThNOagulbJ8tGXtxMLrU/edit)
 
