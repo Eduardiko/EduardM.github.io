@@ -12,6 +12,8 @@ Sound in videogames is one of the most important aspects of it due to the fact t
  - Mirror or exaggerate how things sound in real life:
    - Although we may not think about the sounds we hear every day, we recognize them readily and have preconceptions about how things should sound. That's why we can get really quickly out of the immersion if we notice a sound that is just "off". [Example](https://www.youtube.com/watch?v=3JY4WHPVIiQ&ab_channel=MashableWatercooler)
 
+![sound](https://media.tenor.com/images/53564c6a072250423ce4ef0a412aed54/tenor.gif)
+
 ## KINDS OF SOUNDS IN VIDEO GAMES
 
 All the different sounds that appear in videogames are distributed in families, that I will now explain. Normally, all video games should include every single one of the families below. The only case in which one of these could be removed is when that is the idea of the game, it is done in purpose.
