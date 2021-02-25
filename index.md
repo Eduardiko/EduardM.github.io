@@ -59,6 +59,8 @@ The are some steps before writing this document that are important to guarantee 
     -	Once we have in mind the audio vision of the game, it is good to gather information about projects with similar approaches to ours. It can help us get more inspired and possibly define better how we want things to be. Examples of references could be clips of sound-design, music, voice-over audios…
     -	When we have gathered up enough material, a good practice to get **inspired**, or on the other hand test our own elements is to take a piece/sound/voice-over of a scenario from our reference material and try it in one of our game. It can also be done the other way around, we take a piece of ours and try it on a scenario from another game similar to ours. This can give us information about our audio vision situation. It tells us if the direction we are focusing things is the right one.
 
+![thinking gif](https://www.wag1mag.com/wp-content/uploads/gif-numbers-wag1mag.gif)
+
 ### AUDIO BIBLE PARTS
 
 Finally we have all the knowledge needed to start writing the final document that will be used throughout all the development. Now I will go deeply in every aspect that needs to be included in order to have a solid document:
