@@ -77,6 +77,8 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
          -	The file formats like .ogg or .wav
          -	The data budget for the project. How much will all the audio weight? Is there a maximum or it can be unlimited?
 
+[AUDIO BIBLE TEMPLATE](https://eduardiko.github.io/)
+
 ### WEBGRAPHY
 [Basics of Sound Design for Video Games](https://frost.ics.uci.edu/ics62/BasicsofSoundDesignforVideoGames-MichaelCullen.pdf)
 
