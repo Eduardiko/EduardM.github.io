@@ -19,21 +19,15 @@ Sound in videogames is one of the most important aspects of it due to the fact t
 All the different sounds that appear in videogames are distributed in families, that I will now explain. Normally, all video games should include every single one of the families below. The only case in which one of these could be removed is when that is the idea of the game, it is done in purpose.
 
  - DX = Dialogue - any verbal speech in the game. This includes both the dialogues from main characters to the ones between NPC’s in the background.
-
- ![dialogue gif](https://cdn.dribbble.com/users/2017037/screenshots/5682343/dialogue.gif)
  
  - MX = Music - all the different soundtracks that accompanies the videogame. We can distinguish between two kind of music: **diegetic** and **non-diegetic**. The difference between these two is that the non-diegetic music is that kind of music that the characters inside the game are not able to hear. We are the only ones that can.
-
-![music gif](https://media0.giphy.com/media/l2SpZvhMicR8zUhxe/source.gif)
 
  - SFX = Sound Effects - any sound that happens in the game. Examples could be gunshots, the sound of a book falling…
    - The most common technique used to create sounds is known as the **Foley Technique**. It is named after Jacl Foley and it consists in the reproduction of everyday sounds that are later on added in the post-production phase of videogames, films and others. [Example](https://www.youtube.com/watch?app=desktop&v=_MOFMa-Lt78&ab_channel=FoleyArt)
 
-![sound effects gif](https://media0.giphy.com/media/YPhIDjJx1ze9ba4IVm/giphy.gif)
-
  - BG = Backgrounds - ambience sounds are all the background sounds which are present in a scene or location. Common ambient sounds include wind, water, birds, crowds, office noises, traffic...
 
-![background gif](https://thumbs.gfycat.com/InexperiencedScientificIsabellineshrike-max-1mb.gif)
+![music gif](https://media0.giphy.com/media/l2SpZvhMicR8zUhxe/source.gif)
 
 ## AUDIO BIBLE
 
