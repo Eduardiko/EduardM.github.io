@@ -74,6 +74,9 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
     -	*Ambience*: a description of the different scenarios will help to understand what kind of ambience sound works better. This is a very important kind of sound, without ambience the game feels “empty”.
     -	*Sound Palette*: this is a list of all the possible sound effects that may be wanted during the development process. Here we need to think in every possible object or action that may cause a sound and list it. Main examples could be weapon sounds, item pickups, the player’s feedback, monsters, visual effects…
     -	*Dynamic Range*: just as before, sound effects also need to establish its dynamic range.
+
+![document gif](https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif)
+
 -	**Voice-Over**
     -	*Characters*: this is a list of all the characters that will need voice-over in the game. Here are separated the main characters, that are the ones that will need a personalized voice over, and the other ones like crowds or background characters. For the main characters, we will need to include their looks, personality, age, gender and profile.
     -	*Orientation*: it defines in a generic way the overall attitude of the characters voice-overs. For example are they going to have a more serious attitude or will they be more comedic or cartoonish. Is it going to be more focused on narrative or dialogues?
@@ -95,7 +98,7 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
          - VO (Voiceover): vo_character_line_var0
          - AMB (Ambiences): amb_place_category_loop_var0
 
-![document gif](https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif)
+![closing gif](https://media0.giphy.com/media/xUA7aW2TDWTn6yNkaI/giphy.gif)
 
 [AUDIO BIBLE TEMPLATE](https://docs.google.com/document/d/18B48Eq502vz9A85DrZhsAS2ThNOagulbJ8tGXtxMLrU/edit)
 
