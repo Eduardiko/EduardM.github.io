@@ -59,7 +59,7 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
     -	*Instrumentation*: A list of all the instruments that are going to be used to compose the music. They are going to be all real instruments? Will there be digital ones? Are we going to use both kinds at some point?
     -	*Recording/Engineering Philosophy*: here we have to write the methodology we are going to use to record all the audio of the instruments. Is it going to be all recorded at the same time in one track or are the different instruments going to be recorded separately into multiples tracks and later put together?
     -	*Dynamic Range*: this will set a range of how loud or quite can music get depending on the situation, establishing maximums and minimums. Also pieces are always going to sound at the same intensity or will it vary?
--	**Sound Design**
+-	**Sound Effects**
     -	*Ambience*: a description of the different scenarios will help to understand what kind of ambience sound works better. This is a very important kind of sound, without ambience the game feels “empty”.
     -	*Sound Palette*: this is a list of all the possible sound effects that may be wanted during the development process. Here we need to think in every possible object or action that may cause a sound and list it. Main examples could be weapon sounds, item pickups, the player’s feedback, monsters, visual effects…
     -	*Dynamic Range*: just as before, sound effects also need to establish its dynamic range.
