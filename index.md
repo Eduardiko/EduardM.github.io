@@ -23,9 +23,17 @@ All the different sounds that appear in videogames are distributed in families, 
  ![dialogue gif](https://cdn.dribbble.com/users/2017037/screenshots/5682343/dialogue.gif)
  
  - MX = Music - all the different soundtracks that accompanies the videogame. We can distinguish between two kind of music: **diegetic** and **non-diegetic**. The difference between these two is that the non-diegetic music is that kind of music that the characters inside the game are not able to hear. We are the only ones that can.
+
+![music gif](https://media0.giphy.com/media/l2SpZvhMicR8zUhxe/source.gif)
+
  - SFX = Sound Effects - any sound that happens in the game. Examples could be gunshots, the sound of a book falling…
    - The most common technique used to create sounds is known as the **Foley Technique**. It is named after Jacl Foley and it consists in the reproduction of everyday sounds that are later on added in the post-production phase of videogames, films and others. [Example](https://www.youtube.com/watch?app=desktop&v=_MOFMa-Lt78&ab_channel=FoleyArt)
+
+![sound effects gif](https://media0.giphy.com/media/YPhIDjJx1ze9ba4IVm/giphy.gif)
+
  - BG = Backgrounds - ambience sounds are all the background sounds which are present in a scene or location. Common ambient sounds include wind, water, birds, crowds, office noises, traffic...
+
+![background gif](https://thumbs.gfycat.com/InexperiencedScientificIsabellineshrike-max-1mb.gif)
 
 ## AUDIO BIBLE
 
@@ -37,6 +45,8 @@ This document is always important but it is extremely useful when:
 -	Multiple sound professionals are working (or could eventually work) on the same project.
 -	You are working on multiple projects (so you can refer back to the document to refresh your memory and put yourself in the project’s mindset).
 -	You’re working on a large project (it’s easy to drift off from the original project focus when you work on the same thing for a long time).
+
+![office gif](https://assets.sutori.com/user-uploads/image/0bc8a5ed-6621-4be9-b98c-946191f7e7a2/86aa8aad36472b36bfb98c4d1317a513.gif)
 
 ### WHAT TO TAKE INTO ACCOUNT BEFORE WRITING THE AUDIO BIBLE
 
