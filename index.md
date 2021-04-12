@@ -100,7 +100,7 @@ At this moment we don’t know exactly what kind of pieces we are going to make 
 
 ![closing gif](https://media0.giphy.com/media/xUA7aW2TDWTn6yNkaI/giphy.gif)
 
-[AUDIO BIBLE TEMPLATE](https://docs.google.com/document/d/18B48Eq502vz9A85DrZhsAS2ThNOagulbJ8tGXtxMLrU/edit)
+[AUDIO BIBLE TEMPLATE](https://github.com/Eduardiko/Eduardiko.github.io/blob/gh-pages/Audio%20Bible%20Template.pdf)
 
 ### WEBGRAPHY
 [Basics of Sound Design for Video Games](https://frost.ics.uci.edu/ics62/BasicsofSoundDesignforVideoGames-MichaelCullen.pdf)
